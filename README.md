@@ -56,7 +56,7 @@ Filter: High-risk files only
 Correlate: Timeline anomalies
 Export: Evidence package
 🎯 Threat Intelligence Operations
-python# 1. Load Threat Intelligence
+Load Threat Intelligence
 Click: 📋 Load IOCs
 Sources: 
   - STIX/TAXII feeds
@@ -75,7 +75,7 @@ Right-click → 🌐 VirusTotal Query
 Right-click → 📁 Show Evidence
 Right-click → 🏷️ Tag as Evidence
 📊 Digital Forensics Timeline
-python# 1. Timeline Configuration
+ 1. Timeline Configuration
 Start_Time: 2024-08-01 00:00:00
 End_Time: 2024-08-07 23:59:59
 Timezone: UTC+3 (Local)
